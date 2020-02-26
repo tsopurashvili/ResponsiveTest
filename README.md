@@ -1,2 +1,0 @@
-# ResponsiveTest
-responsive_test
